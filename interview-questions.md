@@ -16,18 +16,24 @@ Researched answer:
 1. What is git? What is the difference between git and Github?
 
 Your answer:
-git is a system that supports version control.
+git is a system that supports version control. Github is a cloud platform
+that supports the git system.
 
 Researched answer:
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Git is an open-source version control sytem that is used to track changes in source code.
+Github is a cloud-based platform for version control and collaboration on software products.
 
 2. Which JavaScript operators will return a Boolean value?
 
 Your answer:
-Comparitve  and Logical operators.
+Comparitve and Logical operators.
 
 Researched answer:
-Boolean expressions use relational and logical operators. The result of a Boolean expression is either true or false. Boolean expressions allow us to write programs that decide whether to execute some code or not.
+Comparison operators - compares values and returns a boolean value based on
+if the comparison is true or not
+Logical operators - determines if the logic between variables or values
+are true or false
+
 
 3. What is an index? What is the difference between index and value?
 
@@ -35,7 +41,8 @@ Your answer:
 An index is the position of a value, a value is any character.
 
 Researched answer:
-The index property is a read-only property. It contains the position of a regular expression match within a string.n a JavaScript environment, those chunks are called values. Though all values are made of bits, they play different roles. Every value has a type that determines its role. Some values are numbers, some values are pieces of text, some values are functions, and so on. To create a value, you must merely invoke its name.
+An index is the position of an element in an array
+A value represents an entity that can be manipulated.
 
 4. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
@@ -51,7 +58,9 @@ Your answer:
 There is a driver and a navigator. The driver has their hands on the keyboard recieveing the info from the navigator on what to type. The navigator instructs the driver on what they should type.
 
 Researched answer:
-Pair programming is a software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in.
+Pair programming is a development technique with 2 people that support
+the goal. The driver writes the code and recieves instruction from
+the navigator.
 
 ## Looking Ahead: Terms for Next Week
 
